@@ -1,0 +1,16 @@
+---
+layout: post
+title: 20190116 Day Review
+categories:
+ - Day Review
+nocomments: 0
+---
+
+오늘 한 공부들
+
+1. tomcat jvm 설정 (JAVA_OPT)
+2. vimtutor
+3. iptables 옵션들, 활용(redirect, nat)
+
+뭘 많이 하긴 한 것 같은데 생각이 나질 않는다...
+중간중간 써놔야겠다.

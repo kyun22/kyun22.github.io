@@ -1,0 +1,63 @@
+# Site Info
+title: kyun2world 
+tagline: 'Day by day growing developer'
+description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+baseurl: ""
+url: http://kyun22.github.io
+logo: '/public/logo.png'
+
+# Site configurations
+gems:
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss    
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: Seokhyun Lee
+  description: A passionate <strong>developer and engineer</strong>, learning to be a giant.
+  gravatar: 0da91551b19b7deeb6c5e3e5d75796d6 # md5 hash of your email address
+  contact:
+    linkedin:  https://www.linkedin.com/in/seokhyun-lee-58538b134
+    github:    https://github.com/kyun22
+    # facebook:  <hide>
+    twitter:   https://twitter.com/seokhyun90?lang=ko
+    #weibo:     http://weibo.com/41173780
+    email:     seokhyun90@gmail.com
+
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Blog:           
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:          
+    - '/about/'
+  #Github Project: 
+    - ''
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+hero:
+  image: /public/img/we_will_be_giants_by_yalestewart.jpg
+  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+
+# Puglins
+mathjax: true # whether support mathjax
+google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
+disqus_short_name: 'kyun22' # leave blank if you don't want disqus
+
