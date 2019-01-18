@@ -3,7 +3,9 @@ layout: post
 title: Jekyll로 나만의 Github Page 블로그 만들기 - 1
 categories:
  - Blog
- - Jekyll
+tags:
+ - jekyll
+ - githubpage
 nocomments: 0
 ---
 
