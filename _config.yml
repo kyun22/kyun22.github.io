@@ -53,8 +53,8 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /public/img/business-2987962_1920.jpg
-  caption: Original Artwork &copy geralt
+  image: /public/img/code-2858768_1280.png
+  caption: Original Artwork &copy GDJ
 
 # Puglins
 mathjax: true # whether support mathjax
